@@ -1,0 +1,150 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.stevecrossin.grocerytracker"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:4:5-78
+11-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:4:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:5:5-66
+12-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:5:22-64
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:6:5-80
+13-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:6:22-77
+14
+15    <application
+15-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:7:5-28:19
+16        android:allowBackup="true"
+16-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:8:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\131e8f26b220544acaa139aa8c2ba48e\core-1.1.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:9:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:10:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:11:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:12:9-35
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:13:9-40
+25        <activity android:name="com.stevecrossin.grocerytracker.screens.Login" >
+25-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:15:9-21:20
+25-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:15:19-48
+26            <intent-filter>
+26-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:16:13-20:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:17:17-69
+27-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:17:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:19:17-77
+29-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:19:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity android:name="com.stevecrossin.grocerytracker.screens.MainActivity" />
+32-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:22:9-58
+32-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:22:19-55
+33        <activity android:name="com.stevecrossin.grocerytracker.screens.Signup" />
+33-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:23:9-52
+33-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:23:19-49
+34        <activity android:name="com.stevecrossin.grocerytracker.screens.Welcome" />
+34-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:24:9-52
+34-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:24:19-50
+35        <activity android:name="com.stevecrossin.grocerytracker.screens.Receipts" />
+35-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:25:9-53
+35-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:25:19-51
+36        <activity android:name="com.stevecrossin.grocerytracker.screens.FaqscreenActivity" />
+36-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:26:9-63
+36-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:26:19-60
+37        <activity android:name="com.stevecrossin.grocerytracker.screens.About" />
+37-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:27:9-50
+37-->C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:27:19-48
+38
+39        <service
+39-->[androidx.room:room-runtime:2.2.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\c220fc5b1b7332e82ae74ef4db20e4b5\room-runtime-2.2.3\AndroidManifest.xml:25:9-27:40
+40            android:name="androidx.room.MultiInstanceInvalidationService"
+40-->[androidx.room:room-runtime:2.2.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\c220fc5b1b7332e82ae74ef4db20e4b5\room-runtime-2.2.3\AndroidManifest.xml:26:13-74
+41            android:exported="false" />
+41-->[androidx.room:room-runtime:2.2.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\c220fc5b1b7332e82ae74ef4db20e4b5\room-runtime-2.2.3\AndroidManifest.xml:27:13-37
+42        <service
+42-->[com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:30:9-36:19
+43            android:name="com.google.firebase.components.ComponentDiscoveryService"
+43-->[com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:31:13-84
+44            android:directBootAware="true"
+44-->[com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+45            android:exported="false" >
+45-->[com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:32:13-37
+46            <meta-data
+46-->[com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:33:13-35:85
+47                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+47-->[com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:34:17-107
+48                android:value="com.google.firebase.components.ComponentRegistrar" />
+48-->[com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:35:17-82
+49            <meta-data
+49-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+50                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+50-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+51                android:value="com.google.firebase.components.ComponentRegistrar" />
+51-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+52            <meta-data
+52-->[com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:32:13-34:85
+53                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+53-->[com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:33:17-109
+54                android:value="com.google.firebase.components.ComponentRegistrar" />
+54-->[com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:34:17-82
+55        </service>
+56
+57        <activity
+57-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+58            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+58-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+59            android:excludeFromRecents="true"
+59-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+60            android:exported="true"
+60-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+61            android:launchMode="singleTask"
+61-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+62            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+62-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+63            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+63-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+64        <activity
+64-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\20ad0c7ff55dbc322111b32832bc1854\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+65            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+65-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\20ad0c7ff55dbc322111b32832bc1854\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+66            android:exported="false"
+66-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\20ad0c7ff55dbc322111b32832bc1854\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+67            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+67-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\20ad0c7ff55dbc322111b32832bc1854\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+68
+69        <provider
+69-->[com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+70            android:name="com.google.firebase.provider.FirebaseInitProvider"
+70-->[com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+71            android:authorities="com.stevecrossin.grocerytracker.firebaseinitprovider"
+71-->[com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+72            android:exported="false"
+72-->[com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+73            android:initOrder="100" />
+73-->[com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+74
+75        <meta-data
+75-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\084e36bdbf9205f4a120da2f86957fbf\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+76            android:name="com.google.android.gms.version"
+76-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\084e36bdbf9205f4a120da2f86957fbf\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+77            android:value="@integer/google_play_services_version" />
+77-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\084e36bdbf9205f4a120da2f86957fbf\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+78    </application>
+79
+80</manifest>

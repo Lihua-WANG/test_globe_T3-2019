@@ -1,0 +1,323 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.github.mailhu:email:2.4.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\218e7b9c1ed5f2d6cdb041fa623cccbe\jetified-email-2.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\9e4c165f38033b0586b7e817f02c69cc\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\64d6fc096e9c1dcee0d3ef37e307c4f6\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.2.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\c220fc5b1b7332e82ae74ef4db20e4b5\room-runtime-2.2.3\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\6e426c2dc76f872741000d94c5812f93\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\20ad0c7ff55dbc322111b32832bc1854\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\4314eb3dd77aa13628475091c996f4dc\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\084e36bdbf9205f4a120da2f86957fbf\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\7d2d1f26fea655f3d666140e7ec1a015\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\d942555ada2885b789cec2168c60496e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\8e934af2dcdf93bb2f2500b18e625679\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\c93e6d9b50cd6554c713ba3e8b22c33e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\785d015249cbc4ed7f1d398faaf99095\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\aaeaddfc1774aadb5cc30eda9c408217\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\ade2773465c79b101b3155f8b51157d5\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\09d2046226408d4ade2a83a06345d392\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b8ee0041954aaf2960417b9e70b28658\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\131e8f26b220544acaa139aa8c2ba48e\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\eb2494436844ae9a0cd2bf8804643534\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\412920a8da62805465862c433554d0e8\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\81b2c4e173c6f7c0ae585c0f24e4a77a\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\7a23b6f33742c1b52a5af54484b91791\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\eb8512200fc78dbdecee793a24f64f89\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\a984610067623c7edd94dbc5de7f79b7\core-runtime-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\7f00e813ccb31b4891ff45a0c3f33cfb\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\fc5bdc293d1b0471a846868d5483d4c9\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\9c0c028716e2fc644ca33054ad9dc38d\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f93a81cb8b4e3127e2536e06e1c69dbf\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\e523534876b6c1dd4bda3c5d4cc048e0\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\fb26f9e7cdc9ef14279a0c7876947e1d\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\e381b346da5a465d69cef0f32fe1cfbd\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5b9617506f974f68c901e859a4a495a4\jetified-firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:4:5-78
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\64d6fc096e9c1dcee0d3ef37e307c4f6\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\64d6fc096e9c1dcee0d3ef37e307c4f6\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.2.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\c220fc5b1b7332e82ae74ef4db20e4b5\room-runtime-2.2.3\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\c220fc5b1b7332e82ae74ef4db20e4b5\room-runtime-2.2.3\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\6e426c2dc76f872741000d94c5812f93\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\6e426c2dc76f872741000d94c5812f93\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\20ad0c7ff55dbc322111b32832bc1854\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\20ad0c7ff55dbc322111b32832bc1854\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\4314eb3dd77aa13628475091c996f4dc\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\4314eb3dd77aa13628475091c996f4dc\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\084e36bdbf9205f4a120da2f86957fbf\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\084e36bdbf9205f4a120da2f86957fbf\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\131e8f26b220544acaa139aa8c2ba48e\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\131e8f26b220544acaa139aa8c2ba48e\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\9c0c028716e2fc644ca33054ad9dc38d\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\9c0c028716e2fc644ca33054ad9dc38d\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\131e8f26b220544acaa139aa8c2ba48e\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.stevecrossin.grocerytracker.screens.Login
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:15:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.stevecrossin.grocerytracker.screens.MainActivity
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:22:9-58
+	android:name
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:22:19-55
+activity#com.stevecrossin.grocerytracker.screens.Signup
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:23:9-52
+	android:name
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:23:19-49
+activity#com.stevecrossin.grocerytracker.screens.Welcome
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:24:19-50
+activity#com.stevecrossin.grocerytracker.screens.Receipts
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:25:9-53
+	android:name
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:25:19-51
+activity#com.stevecrossin.grocerytracker.screens.FaqscreenActivity
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:26:9-63
+	android:name
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:26:19-60
+activity#com.stevecrossin.grocerytracker.screens.About
+ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml:27:19-48
+uses-sdk
+INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+MERGED from [com.github.mailhu:email:2.4.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\218e7b9c1ed5f2d6cdb041fa623cccbe\jetified-email-2.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mailhu:email:2.4.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\218e7b9c1ed5f2d6cdb041fa623cccbe\jetified-email-2.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\9e4c165f38033b0586b7e817f02c69cc\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\9e4c165f38033b0586b7e817f02c69cc\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\64d6fc096e9c1dcee0d3ef37e307c4f6\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\64d6fc096e9c1dcee0d3ef37e307c4f6\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.2.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\c220fc5b1b7332e82ae74ef4db20e4b5\room-runtime-2.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\c220fc5b1b7332e82ae74ef4db20e4b5\room-runtime-2.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\6e426c2dc76f872741000d94c5812f93\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\6e426c2dc76f872741000d94c5812f93\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\20ad0c7ff55dbc322111b32832bc1854\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\20ad0c7ff55dbc322111b32832bc1854\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\4314eb3dd77aa13628475091c996f4dc\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\4314eb3dd77aa13628475091c996f4dc\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\084e36bdbf9205f4a120da2f86957fbf\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\084e36bdbf9205f4a120da2f86957fbf\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\7d2d1f26fea655f3d666140e7ec1a015\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\7d2d1f26fea655f3d666140e7ec1a015\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\d942555ada2885b789cec2168c60496e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\d942555ada2885b789cec2168c60496e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\8e934af2dcdf93bb2f2500b18e625679\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\8e934af2dcdf93bb2f2500b18e625679\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\c93e6d9b50cd6554c713ba3e8b22c33e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\c93e6d9b50cd6554c713ba3e8b22c33e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\785d015249cbc4ed7f1d398faaf99095\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\785d015249cbc4ed7f1d398faaf99095\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\aaeaddfc1774aadb5cc30eda9c408217\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\aaeaddfc1774aadb5cc30eda9c408217\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\ade2773465c79b101b3155f8b51157d5\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\ade2773465c79b101b3155f8b51157d5\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\09d2046226408d4ade2a83a06345d392\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\09d2046226408d4ade2a83a06345d392\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b8ee0041954aaf2960417b9e70b28658\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b8ee0041954aaf2960417b9e70b28658\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\131e8f26b220544acaa139aa8c2ba48e\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\131e8f26b220544acaa139aa8c2ba48e\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\eb2494436844ae9a0cd2bf8804643534\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\eb2494436844ae9a0cd2bf8804643534\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\412920a8da62805465862c433554d0e8\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\412920a8da62805465862c433554d0e8\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\81b2c4e173c6f7c0ae585c0f24e4a77a\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\81b2c4e173c6f7c0ae585c0f24e4a77a\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\7a23b6f33742c1b52a5af54484b91791\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\7a23b6f33742c1b52a5af54484b91791\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\eb8512200fc78dbdecee793a24f64f89\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\eb8512200fc78dbdecee793a24f64f89\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\a984610067623c7edd94dbc5de7f79b7\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\a984610067623c7edd94dbc5de7f79b7\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\7f00e813ccb31b4891ff45a0c3f33cfb\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\7f00e813ccb31b4891ff45a0c3f33cfb\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\fc5bdc293d1b0471a846868d5483d4c9\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\fc5bdc293d1b0471a846868d5483d4c9\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\9c0c028716e2fc644ca33054ad9dc38d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\9c0c028716e2fc644ca33054ad9dc38d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f93a81cb8b4e3127e2536e06e1c69dbf\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f93a81cb8b4e3127e2536e06e1c69dbf\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\e523534876b6c1dd4bda3c5d4cc048e0\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\e523534876b6c1dd4bda3c5d4cc048e0\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\fb26f9e7cdc9ef14279a0c7876947e1d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\fb26f9e7cdc9ef14279a0c7876947e1d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\e381b346da5a465d69cef0f32fe1cfbd\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\e381b346da5a465d69cef0f32fe1cfbd\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5b9617506f974f68c901e859a4a495a4\jetified-firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5b9617506f974f68c901e859a4a495a4\jetified-firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LILY.Wang\Desktop\test_globe_T3-2019\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\c220fc5b1b7332e82ae74ef4db20e4b5\room-runtime-2.2.3\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\c220fc5b1b7332e82ae74ef4db20e4b5\room-runtime-2.2.3\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.3] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\c220fc5b1b7332e82ae74ef4db20e4b5\room-runtime-2.2.3\AndroidManifest.xml:26:13-74
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:31:13-84
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\912dbdd521cdbfdfccf745a9fd47575c\jetified-firebase-storage-19.1.0\AndroidManifest.xml:34:17-107
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\b7334c97a04bef867186b35b42d39388\jetified-firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\5d551cf403761172a71f7aff7eebd5be\jetified-firebase-database-19.2.0\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\20ad0c7ff55dbc322111b32832bc1854\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\20ad0c7ff55dbc322111b32832bc1854\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\20ad0c7ff55dbc322111b32832bc1854\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\20ad0c7ff55dbc322111b32832bc1854\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\f26cba8f7ffcd19d973870ddd91592e7\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\084e36bdbf9205f4a120da2f86957fbf\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\084e36bdbf9205f4a120da2f86957fbf\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\LILY.Wang\.gradle\caches\transforms-2\files-2.1\084e36bdbf9205f4a120da2f86957fbf\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
